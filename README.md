@@ -6,4 +6,4 @@ color theme to [iTerm2](http://http://www.iterm2.com/).  Wombat was
 originally developed by Danila Bespalov (danila.bespalov@gmail.com)
 with 256-color modifications later added by David Liang (bmdavll@gmail.com).
 
-![Screen Shot](https://github.com/djoyner/iTerm-wombat/raw/master/screenshot.png)
+![Screen Shot](https://github.com/djoyner/iTerm2-wombat/raw/master/screenshot.png)
